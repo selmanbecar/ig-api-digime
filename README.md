@@ -1,11 +1,10 @@
 # Intro 
  - This app is made for Digi.me company for Junior competition
- - Application have all requirements that need
  - First of all and most important application use Instagram api to get data. 
- - Application have two routes. One which provides username and post count and other that provides media picture and date when it was created.
+ - Application has two routes. One which provides username and post count and other that provides media picture and date when it was created.
  - For logged in user aplication display all requirements.
  - All backend code is cover and ready to use on frontend.
- - App have 2 test unit which you can run as described below.
+ - App has 2 test unit which you can run as described below.
 
 # Prerequisites 
  - Visual studio code or some other text editor
@@ -27,7 +26,6 @@
   - To install dependencies type in terminal "npm install 'dependencies name'"
 
 # how to run - start 
-* Local
  - To run this app if you have all prerquisites, type "node lib/app.js" in terminal
  - You will get message Server is listening on port
  - Go to web browser and type http://localhost:3000/ (for user information) and http://localhost:3000/media for (user media)
