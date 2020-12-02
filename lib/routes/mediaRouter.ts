@@ -25,6 +25,7 @@ const app = express()
                 });
             
                 res.send(Posts.reverse());
+                
             }
     }) 
 })
